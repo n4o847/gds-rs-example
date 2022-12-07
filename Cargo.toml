@@ -1,5 +1,6 @@
 [workspace]
 members = [
     "cpu",
+    "cufile-sys",
     "gpu",
 ]
