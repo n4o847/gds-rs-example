@@ -2,5 +2,6 @@
 members = [
     "cpu",
     "cufile-sys",
+    "gds-helloworld",
     "gpu",
 ]

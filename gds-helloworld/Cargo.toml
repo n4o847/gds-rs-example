@@ -1,0 +1,9 @@
+[package]
+name = "gds-helloworld"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cufile-sys = { path = "../cufile-sys", version = "0.1.0"}
+cust = "0.3.2"
+libc = "0.2.138"
