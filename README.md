@@ -48,7 +48,7 @@ TESTFILE=./foo.txt ./target/debug/gds-helloworld
 
 I have written an article explaining this repository.
 
-- (Here comes the link to the article)
+- [GPUDirect Storage を Rust で動かしてみた](https://qiita.com/n4o847/items/07dc24bdb663500970f8)
 
 For others, see also:
 
